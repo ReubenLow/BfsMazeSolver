@@ -1,0 +1,56 @@
+[0.277s] Invoking command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/reuben/ros2_ws/src/src/examples/rclcpp/timers/minimal_timer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer
+[1.253s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.253s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.253s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[1.253s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.253s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.254s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.254s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.254s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.254s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.254s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.254s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.254s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.365s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.366s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.367s] -- Configured cppcheck include dirs: 
+[1.367s] -- Configured cppcheck exclude dirs and/or files: 
+[1.368s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.368s] -- Configured cpplint exclude dirs and/or files: 
+[1.369s] -- Added test 'lint_cmake' to check CMake code style
+[1.370s] -- Added test 'uncrustify' to check C / C++ code style
+[1.370s] -- Configured uncrustify additional arguments: 
+[1.371s] -- Added test 'xmllint' to check XML markup files
+[1.373s] -- Configuring done
+[1.403s] -- Generating done
+[1.403s] -- Build files have been written to: /home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer
+[1.427s] Invoked command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/reuben/ros2_ws/src/src/examples/rclcpp/timers/minimal_timer -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer
+[1.428s] Invoking command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[1.633s] [35m[1mConsolidate compiler generated dependencies of target timer_member_function[0m
+[1.633s] [35m[1mConsolidate compiler generated dependencies of target timer_lambda[0m
+[1.650s] [ 25%] [32m[1mLinking CXX executable timer_member_function[0m
+[1.650s] [ 50%] [32m[1mLinking CXX executable timer_lambda[0m
+[2.319s] [ 75%] Built target timer_member_function
+[2.602s] [100%] Built target timer_lambda
+[2.674s] Invoked command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer -- -j16 -l16
+[3.547s] Invoking command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer
+[3.636s] -- Install configuration: ""
+[3.636s] -- Execute custom install script
+[3.636s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_lambda
+[3.637s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_member_function
+[3.637s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_timer
+[3.637s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_timer
+[3.637s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.sh
+[3.653s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.dsv
+[3.677s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.sh
+[3.703s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.dsv
+[3.720s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.bash
+[3.732s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.sh
+[3.746s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.zsh
+[3.769s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.dsv
+[3.791s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.dsv
+[3.802s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/packages/examples_rclcpp_minimal_timer
+[3.811s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig.cmake
+[3.817s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig-version.cmake
+[3.827s] -- Symlinking: /home/reuben/ros2_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.xml
+[4.297s] Invoked command in '/home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/reuben/ros2_ws/install/rse2108_ass:/home/reuben/ros2_ws/install/mark_1:/home/reuben/ros2_ws/install/launch_testing_examples:/home/reuben/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/reuben/ros2_ws/install/examples_rclpy_minimal_service:/home/reuben/ros2_ws/install/examples_rclpy_minimal_publisher:/home/reuben/ros2_ws/install/examples_rclpy_minimal_client:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_server:/home/reuben/ros2_ws/install/examples_rclpy_minimal_action_client:/home/reuben/ros2_ws/install/examples_rclpy_guard_conditions:/home/reuben/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/reuben/ros2_ws/build/examples_rclcpp_minimal_timer

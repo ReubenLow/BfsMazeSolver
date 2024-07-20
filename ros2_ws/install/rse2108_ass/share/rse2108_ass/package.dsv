@@ -1,0 +1,9 @@
+source;share/rse2108_ass/hook/pythonpath.ps1
+source;share/rse2108_ass/hook/pythonpath.dsv
+source;share/rse2108_ass/hook/pythonpath.sh
+source;share/rse2108_ass/hook/ament_prefix_path.ps1
+source;share/rse2108_ass/hook/ament_prefix_path.dsv
+source;share/rse2108_ass/hook/ament_prefix_path.sh
+source;../../build/rse2108_ass/share/rse2108_ass/hook/pythonpath_develop.ps1
+source;../../build/rse2108_ass/share/rse2108_ass/hook/pythonpath_develop.dsv
+source;../../build/rse2108_ass/share/rse2108_ass/hook/pythonpath_develop.sh

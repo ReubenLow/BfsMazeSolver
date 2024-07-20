@@ -1,0 +1,3 @@
+[console_scripts]
+bfs = rse2108_ass.bfs:main
+

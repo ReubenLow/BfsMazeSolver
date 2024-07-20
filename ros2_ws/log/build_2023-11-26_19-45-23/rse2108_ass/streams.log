@@ -1,0 +1,21 @@
+[1.987s] Invoking command in '/home/reuben/ros2_ws/build/rse2108_ass': PYTHONPATH=/home/reuben/ros2_ws/build/rse2108_ass/prefix_override:/home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/reuben/ros2_ws/build/rse2108_ass/build --no-deps install_data
+[2.246s] running develop
+[2.246s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.246s]   warnings.warn(
+[2.246s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.247s]   warnings.warn(
+[2.395s] running egg_info
+[2.396s] writing rse2108_ass.egg-info/PKG-INFO
+[2.396s] writing dependency_links to rse2108_ass.egg-info/dependency_links.txt
+[2.396s] writing entry points to rse2108_ass.egg-info/entry_points.txt
+[2.396s] writing requirements to rse2108_ass.egg-info/requires.txt
+[2.396s] writing top-level names to rse2108_ass.egg-info/top_level.txt
+[2.397s] reading manifest file 'rse2108_ass.egg-info/SOURCES.txt'
+[2.398s] writing manifest file 'rse2108_ass.egg-info/SOURCES.txt'
+[2.436s] running build_ext
+[2.436s] Creating /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108-ass.egg-link (link to .)
+[2.437s] Installing bfs script to /home/reuben/ros2_ws/install/rse2108_ass/lib/rse2108_ass
+[2.437s] 
+[2.437s] Installed /home/reuben/ros2_ws/build/rse2108_ass
+[2.437s] running install_data
+[2.542s] Invoked command in '/home/reuben/ros2_ws/build/rse2108_ass' returned '0': PYTHONPATH=/home/reuben/ros2_ws/build/rse2108_ass/prefix_override:/home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/reuben/ros2_ws/build/rse2108_ass/build --no-deps install_data

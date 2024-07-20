@@ -1,0 +1,15 @@
+/home/reuben/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+/home/reuben/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+/home/reuben/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+/home/reuben/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml

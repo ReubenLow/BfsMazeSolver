@@ -1,0 +1,42 @@
+running egg_info
+creating ../../build/rse2108_ass/rse2108_ass.egg-info
+writing ../../build/rse2108_ass/rse2108_ass.egg-info/PKG-INFO
+writing dependency_links to ../../build/rse2108_ass/rse2108_ass.egg-info/dependency_links.txt
+writing entry points to ../../build/rse2108_ass/rse2108_ass.egg-info/entry_points.txt
+writing requirements to ../../build/rse2108_ass/rse2108_ass.egg-info/requires.txt
+writing top-level names to ../../build/rse2108_ass/rse2108_ass.egg-info/top_level.txt
+writing manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+reading manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+writing manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/reuben/ros2_ws/build/rse2108_ass/build
+creating /home/reuben/ros2_ws/build/rse2108_ass/build/lib
+creating /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+copying rse2108_ass/__init__.py -> /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+copying rse2108_ass/bfs.py -> /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+running install
+running install_lib
+creating /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+copying /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass/__init__.py -> /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+copying /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass/bfs.py -> /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+byte-compiling /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass/bfs.py to bfs.cpython-310.pyc
+running install_data
+creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index
+creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index
+creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index/packages
+copying resource/rse2108_ass -> /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index/packages
+copying package.xml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass
+creating /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+copying launch/rse2108_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+copying launch/nav_to_pose_example_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+copying launch/nav_through_poses_example_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+creating /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+copying params/slam_params.yaml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+copying params/nav_params.yaml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+running install_egg_info
+Copying ../../build/rse2108_ass/rse2108_ass.egg-info to /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bfs script to /home/reuben/ros2_ws/install/rse2108_ass/lib/rse2108_ass
+writing list of installed files to '/home/reuben/ros2_ws/build/rse2108_ass/install.log'

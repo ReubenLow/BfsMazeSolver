@@ -1,0 +1,46 @@
+[2.288s] Invoking command in '/home/reuben/ros2_ws/src/rse2108_ass': PYTHONPATH=/home/reuben/ros2_ws/build/rse2108_ass/prefix_override:/home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rse2108_ass build --build-base /home/reuben/ros2_ws/build/rse2108_ass/build install --record /home/reuben/ros2_ws/build/rse2108_ass/install.log --single-version-externally-managed
+[2.670s] running egg_info
+[2.670s] creating ../../build/rse2108_ass/rse2108_ass.egg-info
+[2.670s] writing ../../build/rse2108_ass/rse2108_ass.egg-info/PKG-INFO
+[2.670s] writing dependency_links to ../../build/rse2108_ass/rse2108_ass.egg-info/dependency_links.txt
+[2.671s] writing entry points to ../../build/rse2108_ass/rse2108_ass.egg-info/entry_points.txt
+[2.671s] writing requirements to ../../build/rse2108_ass/rse2108_ass.egg-info/requires.txt
+[2.671s] writing top-level names to ../../build/rse2108_ass/rse2108_ass.egg-info/top_level.txt
+[2.671s] writing manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+[2.673s] reading manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+[2.674s] writing manifest file '../../build/rse2108_ass/rse2108_ass.egg-info/SOURCES.txt'
+[2.675s] running build
+[2.675s] running build_py
+[2.675s] creating /home/reuben/ros2_ws/build/rse2108_ass/build
+[2.675s] creating /home/reuben/ros2_ws/build/rse2108_ass/build/lib
+[2.675s] creating /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+[2.675s] copying rse2108_ass/__init__.py -> /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+[2.675s] copying rse2108_ass/bfs.py -> /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass
+[2.676s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.676s]   warnings.warn(
+[2.676s] running install
+[2.676s] running install_lib
+[2.677s] creating /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+[2.677s] copying /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass/__init__.py -> /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+[2.677s] copying /home/reuben/ros2_ws/build/rse2108_ass/build/lib/rse2108_ass/bfs.py -> /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass
+[2.678s] byte-compiling /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass/__init__.py to __init__.cpython-310.pyc
+[2.678s] byte-compiling /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass/bfs.py to bfs.cpython-310.pyc
+[2.680s] running install_data
+[2.681s] creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index
+[2.681s] creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index
+[2.682s] creating /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index/packages
+[2.682s] copying resource/rse2108_ass -> /home/reuben/ros2_ws/install/rse2108_ass/share/ament_index/resource_index/packages
+[2.682s] copying package.xml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass
+[2.682s] creating /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+[2.682s] copying launch/rse2108_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+[2.682s] copying launch/nav_to_pose_example_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+[2.682s] copying launch/nav_through_poses_example_launch.py -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/launch
+[2.682s] creating /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+[2.682s] copying params/slam_params.yaml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+[2.682s] copying params/nav_params.yaml -> /home/reuben/ros2_ws/install/rse2108_ass/share/rse2108_ass/params
+[2.683s] running install_egg_info
+[2.686s] Copying ../../build/rse2108_ass/rse2108_ass.egg-info to /home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages/rse2108_ass-0.0.0-py3.10.egg-info
+[2.686s] running install_scripts
+[2.720s] Installing bfs script to /home/reuben/ros2_ws/install/rse2108_ass/lib/rse2108_ass
+[2.720s] writing list of installed files to '/home/reuben/ros2_ws/build/rse2108_ass/install.log'
+[2.768s] Invoked command in '/home/reuben/ros2_ws/src/rse2108_ass' returned '0': PYTHONPATH=/home/reuben/ros2_ws/build/rse2108_ass/prefix_override:/home/reuben/ros2_ws/install/rse2108_ass/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rse2108_ass build --build-base /home/reuben/ros2_ws/build/rse2108_ass/build install --record /home/reuben/ros2_ws/build/rse2108_ass/install.log --single-version-externally-managed
